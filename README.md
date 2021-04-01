@@ -18,5 +18,12 @@ Locais mobile:
 
 ![locais-mobile](https://user-images.githubusercontent.com/79033956/113329918-8f5f6000-92f4-11eb-800d-6ff42497c2d7.jpg)
 
+Planos desktop:
+![planos-desktop](https://user-images.githubusercontent.com/79033956/113360962-3eb22c00-9321-11eb-8ea0-814248ea6421.jpg)
+
+Planos mobile:
+![planos-mobile](https://user-images.githubusercontent.com/79033956/113361012-5ab5cd80-9321-11eb-991d-8f6be4160552.jpg)
+
+
 
 
