@@ -1,3 +1,4 @@
+
 # Caravan
  Construindo um site (curso origamid)
  
@@ -8,5 +9,14 @@
 Home mobile:
 
 ![home-mobile](https://user-images.githubusercontent.com/79033956/113161094-71bac980-9214-11eb-94eb-1d05e11ae1a5.jpg)
+
+Locais desktop:
+
+![locais-desktop](https://user-images.githubusercontent.com/79033956/113329812-6c34b080-92f4-11eb-92b0-c5b74ddae38b.png)
+
+Locais mobile:
+
+![locais-mobile](https://user-images.githubusercontent.com/79033956/113329918-8f5f6000-92f4-11eb-800d-6ff42497c2d7.jpg)
+
 
 
