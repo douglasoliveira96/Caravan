@@ -15,6 +15,40 @@
 </head>
 
 <body>
+
+  <!-- Modal -->
+<div class="modal fade" id="modalLogin" tabindex="-1" aria-labelledby="modalLoginTitulo" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="modalLoginTitulo">Entre na sua conta</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        
+        <form>
+          <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">Email</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+            <div id="emailHelp" class="form-text"></div>
+          </div>
+          <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Senha</label>
+            <input type="password" class="form-control" id="exampleInputPassword1">
+          </div>
+          <div class="mb-3 form-check">
+            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+            <label class="form-check-label" for="exampleCheck1">Manter conectado</label>
+          </div>
+          <button type="submit" class="btn btn-primary">Entrar na conta</button>
+          <br>
+          <small class="form-text text-muted">Esqueceu a senha? <a href="#">Clique aqui</a> </small>
+        </form>
+
+      </div>      
+    </div>
+  </div>
+</div>
   <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top p-3 box-shadow">
     <div class="container-fluid">
       <a href="index.html" class="navbar-brand">
@@ -44,7 +78,7 @@
             <a class="nav-link" href="contato.html">Contato</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Login</a>
+            <a class="nav-link" href="#" data-bs-toggle="modal" data-bs-target="#modalLogin" href="#modalLogin">Login</a>
           <li class="nav-item">
             <a class="btn btn-outline-primary ml-md-2" href="inscricao.html">Inscreva-se</a>
           </li>
@@ -260,7 +294,7 @@
     </div>
   </section>
 
-  <footer class="bg-dark text-white">
+  <footer class="bg-dark text-white text-white mt-5">
     <div class="container py-4">
       <div class="row">
         <div class="col-md-3 col-6">
