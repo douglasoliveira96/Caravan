@@ -30,7 +30,7 @@ Planos mobile:
 
 ![planos-mobile](https://user-images.githubusercontent.com/79033956/113361012-5ab5cd80-9321-11eb-991d-8f6be4160552.jpg)
 
-Increva-se e footer:
+Inscreva-se e footer:
 
 ![inscricao-mobile](https://user-images.githubusercontent.com/79033956/113515748-c29c2c00-954c-11eb-8671-3bfd60d2d286.jpg)
 ![footer-mobile](https://user-images.githubusercontent.com/79033956/113515746-c2039580-954c-11eb-9b0b-4566e5bed4b5.jpg)
