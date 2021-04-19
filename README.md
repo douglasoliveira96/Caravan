@@ -1,5 +1,5 @@
 #  ✈️ Caravan
-## 🏖️ Construi um site fictício de viagens usando HTML e CSS.
+## 🏖️ Construí um site fictício de viagens usando HTML e CSS.
 ## Acesse: ↪️ https://exemplo-caravan.netlify.app/ ↩️
  
  Home desktop:
