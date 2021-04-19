@@ -1,5 +1,6 @@
-# Caravan
- Construindo um site (curso origamid)
+#  ✈️ Caravan
+## 🏖️ Construí um site fictício de viagens usando HTML e CSS.
+## Acesse: ↪️ https://exemplo-caravan.netlify.app/ ↩️
  
  Home desktop:
  
@@ -7,7 +8,7 @@
 
 Home mobile:
 
-![home-mobile](https://user-images.githubusercontent.com/79033956/113161094-71bac980-9214-11eb-94eb-1d05e11ae1a5.jpg)
+![home-m obile](https://user-images.githubusercontent.com/79033956/113161094-71bac980-9214-11eb-94eb-1d05e11ae1a5.jpg)
 
 Locais desktop:
 
